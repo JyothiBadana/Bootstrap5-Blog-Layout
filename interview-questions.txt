@@ -1,0 +1,31 @@
+Interview Questions and Answers - Bootstrap 5 Blog Layout
+
+1. What is Bootstrap?
+- A CSS framework for responsive and modern web design.
+
+2. How to include Bootstrap in a project?
+- Use CDN links in the <head> for CSS and before </body> for JS.
+
+3. What is the grid system?
+- A 12-column layout system for creating responsive layouts.
+
+4. What are utility classes?
+- Predefined Bootstrap classes like p-3, mt-2, text-center used for spacing, text, colors, etc.
+
+5. How do you customize Bootstrap?
+- Override with custom CSS or use Bootstrap utility classes.
+
+6. Difference between container and container-fluid?
+- container has fixed width, container-fluid spans full width.
+
+7. What are Bootstrap cards?
+- Pre-styled content boxes for images, text, and buttons.
+
+8. How to make responsive navigation?
+- Use navbar, navbar-expand-*, and collapse classes.
+
+9. What is a CDN?
+- Content Delivery Network — serves files like CSS/JS from a fast global server.
+
+10. How to override Bootstrap styles?
+- Use custom CSS after Bootstrap link or use inline styles.
